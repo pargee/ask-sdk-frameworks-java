@@ -92,7 +92,7 @@ In your `pom.xml`, add the `build-model` task from [ask-sdk-maven-plugins](https
 <plugin>
     <groupId>com.amazon.alexa</groupId>
     <artifactId>ask-sdk-maven-plugins</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
     <configuration>
         <destinationDir>ask</destinationDir>
         <className>com.example.HelloWorldSkill</className>
